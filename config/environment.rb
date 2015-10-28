@@ -1,0 +1,7 @@
+# require_relative '../data/*'
+# require_relative '../lib/*'
+require 'csv'
+require 'pry'
+require_relative '../lib/datasource'
+require_relative '../lib/campaign'
+require_relative '../lib/analysis'
